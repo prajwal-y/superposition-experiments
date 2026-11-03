@@ -1,0 +1,6 @@
+# Versions used for the results in out/ (Python 3.11.9, macOS on Apple silicon)
+numpy==2.4.6
+pillow==13.0.0
+torch==2.14.1
+transformers==5.20.2
+torch-lucent @ git+https://github.com/greentfrapp/lucent.git@dev

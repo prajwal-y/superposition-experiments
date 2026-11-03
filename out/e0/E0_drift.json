@@ -1,0 +1,87 @@
+{
+ "snapshots": [
+  1,
+  8,
+  16,
+  32,
+  64,
+  96,
+  128,
+  192,
+  256,
+  384,
+  512
+ ],
+ "rows": [
+  "free",
+  "car-guided",
+  "dog-guided",
+  "other-guided"
+ ],
+ "scores": {
+  "4d:352": {
+   "free": 1.683,
+   "car": 1.887,
+   "dog": 1.831,
+   "other": 1.756,
+   "group_sizes": {
+    "car": 48,
+    "dog": 48,
+    "other": 48
+   },
+   "route_photo_mean_act_over_pool_max": {
+    "car": 0.891,
+    "dog": 0.421,
+    "other": 0.407
+   }
+  },
+  "4d:417": {
+   "free": 2.103,
+   "car": 2.241,
+   "dog": 2.22,
+   "other": 2.223,
+   "group_sizes": {
+    "car": 48,
+    "dog": 48,
+    "other": 48
+   },
+   "route_photo_mean_act_over_pool_max": {
+    "car": 0.801,
+    "dog": 0.522,
+    "other": 0.424
+   }
+  },
+  "4d:277": {
+   "free": 1.935,
+   "car": 2.002,
+   "dog": 1.723,
+   "other": 1.748,
+   "group_sizes": {
+    "car": 48,
+    "dog": 48,
+    "other": 48
+   },
+   "route_photo_mean_act_over_pool_max": {
+    "car": 0.673,
+    "dog": 0.397,
+    "other": 0.522
+   }
+  },
+  "4d:241": {
+   "free": 2.107,
+   "car": 2.053,
+   "dog": 1.868,
+   "other": 1.964,
+   "group_sizes": {
+    "car": 48,
+    "dog": 48,
+    "other": 48
+   },
+   "route_photo_mean_act_over_pool_max": {
+    "car": 0.869,
+    "dog": 0.662,
+    "other": 0.426
+   }
+  }
+ }
+}

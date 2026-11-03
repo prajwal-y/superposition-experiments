@@ -1,0 +1,84 @@
+{
+ "neuron": "3b:379",
+ "photos": 192,
+ "top10_inputs_3a": [
+  147,
+  77,
+  187,
+  150,
+  66,
+  189,
+  134,
+  185,
+  172,
+  93
+ ],
+ "attribution": [
+  541.7,
+  520.6,
+  468.2,
+  362.6,
+  298.6,
+  287.8,
+  223.8,
+  180.0,
+  100.8,
+  94.9
+ ],
+ "drop_knocking_out_top10": 0.848,
+ "drop_random10_mean": 0.037,
+ "drop_random10_max": 0.199,
+ "input_tuning": {
+  "147": {
+   "preferred_angle": 220,
+   "half_width_deg": 65,
+   "tuned": true
+  },
+  "77": {
+   "preferred_angle": 250,
+   "half_width_deg": 50,
+   "tuned": true
+  },
+  "187": {
+   "preferred_angle": 230,
+   "half_width_deg": 85,
+   "tuned": false
+  },
+  "150": {
+   "preferred_angle": 65,
+   "half_width_deg": 135,
+   "tuned": true
+  },
+  "66": {
+   "preferred_angle": 75,
+   "half_width_deg": 100,
+   "tuned": true
+  },
+  "189": {
+   "preferred_angle": 235,
+   "half_width_deg": 70,
+   "tuned": true
+  },
+  "134": {
+   "preferred_angle": 220,
+   "half_width_deg": 110,
+   "tuned": true
+  },
+  "185": {
+   "preferred_angle": 15,
+   "half_width_deg": 115,
+   "tuned": false
+  },
+  "172": {
+   "preferred_angle": 90,
+   "half_width_deg": 50,
+   "tuned": false
+  },
+  "93": {
+   "preferred_angle": 225,
+   "half_width_deg": 130,
+   "tuned": true
+  }
+ },
+ "3b379_preferred_angle_r20": 230
+}

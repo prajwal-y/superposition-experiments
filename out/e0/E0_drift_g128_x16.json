@@ -1,0 +1,71 @@
+{
+ "snapshots": [
+  1,
+  8,
+  16,
+  32,
+  64,
+  96,
+  128,
+  192,
+  256,
+  384,
+  512
+ ],
+ "rows": [
+  "free",
+  "car-guided",
+  "dog-guided",
+  "other-guided"
+ ],
+ "scores": {
+  "4d:417": {
+   "free": 1.985,
+   "car": 2.34,
+   "dog": 2.167,
+   "other": 1.95,
+   "group_sizes": {
+    "car": 48,
+    "dog": 48,
+    "other": 48
+   },
+   "route_photo_mean_act_over_pool_max": {
+    "car": 0.801,
+    "dog": 0.522,
+    "other": 0.424
+   }
+  },
+  "4d:277": {
+   "free": 1.718,
+   "car": 1.787,
+   "dog": 1.643,
+   "other": 1.788,
+   "group_sizes": {
+    "car": 48,
+    "dog": 48,
+    "other": 48
+   },
+   "route_photo_mean_act_over_pool_max": {
+    "car": 0.673,
+    "dog": 0.397,
+    "other": 0.522
+   }
+  },
+  "4d:241": {
+   "free": 1.755,
+   "car": 2.115,
+   "dog": 2.096,
+   "other": 1.959,
+   "group_sizes": {
+    "car": 48,
+    "dog": 48,
+    "other": 48
+   },
+   "route_photo_mean_act_over_pool_max": {
+    "car": 0.869,
+    "dog": 0.662,
+    "other": 0.426
+   }
+  }
+ }
+}

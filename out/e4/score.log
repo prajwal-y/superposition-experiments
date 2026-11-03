@@ -1,0 +1,143 @@
+calibrated 0 {'none': 0.0063, 'pos_strong': 0.4631, 'pos_weak': 0.2703}
+calibrated 1 {'none': -0.0019, 'neg': -0.3349, 'pos': 0.3838}
+calibrated 2 {'none': 0.0005, 'neg_strong': -1.6987, 'neg_weak': -0.6248, 'pos_weak': 0.1609, 'pos_strong': 0.8456}
+calibrated 3 {'none': 0.0015, 'neg': -0.3399, 'pos': 0.5576}
+calibrated 4 {'none': 0.0064, 'neg': -1.3204, 'pos_weak': 0.573, 'pos_strong': 2.1681}
+calibrated 5 {'none': 0.0078, 'pos_weak': 0.2439, 'pos_strong': 1.6748}
+calibrated 6 {'none': 0.0093, 'pos_mid': 0.5462, 'neg': -0.8316, 'pos_weak': 0.5189}
+calibrated 7 {'none': -0.0091, 'neg': -0.2979, 'pos_mid': 0.7745, 'neg_weak': -0.2534, 'pos_strong': 1.9286}
+calibrated 8 {'none': -0.0142, 'pos_weak': 1.2791, 'neg_strong': -2.4438, 'neg_weak': -1.3068, 'pos_strong': 2.8285}
+calibrated 9 {'none': 0.0189, 'neg_mid': -1.4675, 'pos': 0.8246, 'neg_strong': -3.2042}
+calibrated 10 {'none': 0.0227, 'pos': 0.2426, 'neg_mid': -1.702, 'neg_strong': -4.5007}
+calibrated 11 {'none': 0.0334, 'pos': 0.278, 'neg_weak': -1.3419, 'neg_strong': -2.2079}
+calibrated 12 {'none': -0.0897, 'pos_mid': 3.2748, 'pos_strong': 4.7221, 'pos_name': 0.2219}
+calibrated 13 {'none': 0.1418, 'neg_and': -0.3745, 'neg_and_comma': -0.942, 'neg_mid': -1.9472, 'pos': 0.8161, 'neg_strong': -0.9168}
+calibrated 14 {'none': -0.09, 'pos': 0.2175, 'neg_strong': -0.5978, 'neg_mid': -0.5781}
+calibrated 15 {'none': -0.0096, 'neg': -0.6793, 'pos_weak': 0.4289, 'pos_strong': 0.1135}
+calibrated 16 {'none': -0.0067, 'neg_strong': -1.143, 'neg_mid': -0.8485, 'pos': 0.3748}
+calibrated 17 {'none': -0.0013, 'pos_weak': 0.0722, 'pos_mid': 0.1061, 'pos_strong': 0.2137}
+calibrated 18 {'none': -0.1487, 'pos': 0.4578, 'neg': -0.6719}
+calibrated 19 {'none': -0.0852, 'pos_strong': 0.4489, 'pos_mid': 0.272}
+calibrated 20 {'none': 0.1924, 'pos': 0.4898, 'neg_male': -1.6741, 'neg_rom': -0.0234, 'neg_rom_o': -2.761}
+calibrated 21 {'none': 0.0906, 'neg_mid': -0.2319, 'pos_mid': 0.7778, 'pos_strong': 0.3911, 'neg_strong': -0.8877}
+calibrated 22 {'none': -0.1164, 'pos_early': 0.8772, 'pos_mid': 0.7578, 'pos_late': 0.3308, 'pos_lead': 1.341}
+calibrated 23 {'pos_linestart': 1.0151, 'none': -0.1189, 'neg_mid': -0.3487, 'neg_strong': -1.7152}
+calibrated 24 {'none': -0.4425, 'pos_mid': 1.8491, 'pos_weak': 0.681, 'neg': -2.5433, 'pos_strong': 8.1899}
+calibrated 25 {'none': -0.1518, 'pos_mid': 1.6246, 'pos_strong': 3.7696, 'neg': -0.9504}
+calibrated 26 {'none': 0.1411, 'pos_line': 0.4752, 'neg': -0.8271, 'pos_end': 0.3511, 'pos_unit': 0.3499}
+calibrated 27 {'none': 0.2988, 'pos_article': -0.8622, 'neg_ia': -1.5621, 'neg_short_start': -14.6189, 'neg_long': -1.3479, 'neg_short_cont': -6.8004, 'neg_weak': -8.1407}
+calibrated 28 {'none': -0.2641, 'pos_strong': 7.7063, 'pos_weak': 1.2422, 'pos_mid': 4.403, 'neg': -0.9105}
+calibrated 29 {'none': -0.0328, 'neg': -1.3412, 'pos_strong': 0.9242, 'pos_mid': 1.635}
+calibrated 30 {'none': 0.0449, 'pos_weak': 0.7644, 'pos_name': -0.0462, 'neg_cjk': -2.8518}
+calibrated 31 {'none': 0.0965, 'neg_strong': -19.2681, 'neg_ctx1': -1.7176, 'pos': 6.5782, 'neg_ctx2': -3.208}
+calibrated 32 {'none': -0.3307, 'pos': 2.5322, 'neg_mid': -4.2402, 'neg_strong': -7.1426}
+calibrated 33 {'none': 0.0398, 'pos_mid': 0.6015, 'neg_strong': -3.7576, 'neg_mid': -4.2764, 'pos_strong': 1.5559}
+calibrated 34 {'none': -0.0331, 'pos_frag': 10.2538, 'neg_aff': -26.186, 'pos_strong': 17.8291, 'neg_frag': -8.6046}
+calibrated 35 {'none': 0.0945, 'pos_strong': 4.0927, 'pos_ctx': 1.524, 'neg': -2.145}
+calibrated 36 {'none': -0.0813, 'neg_strong': -4.4113, 'neg_ctx1': -0.5818, 'pos': 1.7595, 'neg_ctx2': -2.0922}
+calibrated 37 {'none': -0.1023, 'neg': -5.8877, 'pos_strong': 6.3555}
+calibrated 38 {'none': 0.0265, 'pos_strong': 8.572, 'neg_r': -13.4561, 'neg_fr_weak': -2.6388, 'pos_frname': 0.369, 'neg_fr_strong': -8.2671}
+calibrated 39 {'none': -0.2782, 'pos_strong': 12.7124, 'pos_frag': 5.0758}
+W1024 22:58:31.260000 63089 torch/distributed/elastic/multiprocessing/redirects.py:35] NOTE: Redirects are currently not supported in MacOs.
+Loading weights:   0%|          | 0/311 [00:00<?, ?it/s]Loading weights:   0%|          | 1/311 [00:00<01:54,  2.70it/s]Loading weights:  77%|███████▋  | 241/311 [00:00<00:00, 668.34it/s]Loading weights: 100%|██████████| 311/311 [00:00<00:00, 546.77it/s]
+batch 1/100  45s
+batch 2/100  90s
+batch 3/100  135s
+batch 4/100  180s
+batch 5/100  224s
+batch 6/100  269s
+batch 7/100  304s
+batch 8/100  348s
+batch 9/100  392s
+batch 10/100  431s
+batch 11/100  476s
+batch 12/100  521s
+batch 13/100  566s
+batch 14/100  610s
+batch 15/100  655s
+batch 16/100  700s
+batch 17/100  745s
+batch 18/100  790s
+batch 19/100  835s
+batch 20/100  879s
+batch 21/100  923s
+batch 22/100  968s
+batch 23/100  1013s
+batch 24/100  1033s
+batch 25/100  1078s
+batch 26/100  1104s
+batch 27/100  1148s
+batch 28/100  1193s
+batch 29/100  1238s
+batch 30/100  1283s
+batch 31/100  1328s
+batch 32/100  1373s
+batch 33/100  1418s
+batch 34/100  1462s
+batch 35/100  1494s
+batch 36/100  1512s
+batch 37/100  1557s
+batch 38/100  1601s
+batch 39/100  1646s
+batch 40/100  1691s
+batch 41/100  1735s
+batch 42/100  1780s
+batch 43/100  1799s
+batch 44/100  1825s
+batch 45/100  1869s
+batch 46/100  1914s
+batch 47/100  1959s
+batch 48/100  2003s
+batch 49/100  2048s
+batch 50/100  2086s
+batch 51/100  2131s
+batch 52/100  2176s
+batch 53/100  2221s
+batch 54/100  2265s
+batch 55/100  2310s
+batch 56/100  2349s
+batch 57/100  2394s
+batch 58/100  2438s
+batch 59/100  2483s
+batch 60/100  2527s
+batch 61/100  2572s
+batch 62/100  2617s
+batch 63/100  2640s
+batch 64/100  2684s
+batch 65/100  2728s
+batch 66/100  2773s
+batch 67/100  2817s
+batch 68/100  2862s
+batch 69/100  2907s
+batch 70/100  2930s
+batch 71/100  2974s
+batch 72/100  3019s
+batch 73/100  3041s
+batch 74/100  3086s
+batch 75/100  3131s
+batch 76/100  3176s
+batch 77/100  3221s
+batch 78/100  3257s
+batch 79/100  3302s
+batch 80/100  3338s
+batch 81/100  3357s
+batch 82/100  3392s
+batch 83/100  3436s
+batch 84/100  3480s
+batch 85/100  3525s
+batch 86/100  3570s
+batch 87/100  3615s
+batch 88/100  3637s
+batch 89/100  3682s
+batch 90/100  3727s
+batch 91/100  3761s
+batch 92/100  3806s
+batch 93/100  3833s
+batch 94/100  3868s
+batch 95/100  3894s
+batch 96/100  3938s
+batch 97/100  3983s
+batch 98/100  4028s
+batch 99/100  4073s
+batch 100/100  4117s
+categories: Counter({'not explained': 38, 'partly explained': 2})

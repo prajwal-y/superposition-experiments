@@ -1,0 +1,166 @@
+{
+ "seed": 20261024,
+ "model": "Qwen/Qwen3-0.6B",
+ "neurons": [
+  {
+   "layer": 0,
+   "index": 1784
+  },
+  {
+   "layer": 1,
+   "index": 316
+  },
+  {
+   "layer": 1,
+   "index": 1228
+  },
+  {
+   "layer": 2,
+   "index": 387
+  },
+  {
+   "layer": 2,
+   "index": 867
+  },
+  {
+   "layer": 4,
+   "index": 13
+  },
+  {
+   "layer": 5,
+   "index": 2888
+  },
+  {
+   "layer": 6,
+   "index": 1406
+  },
+  {
+   "layer": 6,
+   "index": 1669
+  },
+  {
+   "layer": 6,
+   "index": 2914
+  },
+  {
+   "layer": 7,
+   "index": 2738
+  },
+  {
+   "layer": 8,
+   "index": 2346
+  },
+  {
+   "layer": 9,
+   "index": 1331
+  },
+  {
+   "layer": 11,
+   "index": 251
+  },
+  {
+   "layer": 11,
+   "index": 358
+  },
+  {
+   "layer": 13,
+   "index": 2255
+  },
+  {
+   "layer": 13,
+   "index": 2290
+  },
+  {
+   "layer": 13,
+   "index": 2346
+  },
+  {
+   "layer": 15,
+   "index": 1069
+  },
+  {
+   "layer": 15,
+   "index": 1208
+  },
+  {
+   "layer": 15,
+   "index": 2172
+  },
+  {
+   "layer": 16,
+   "index": 280
+  },
+  {
+   "layer": 17,
+   "index": 1014
+  },
+  {
+   "layer": 18,
+   "index": 255
+  },
+  {
+   "layer": 19,
+   "index": 285
+  },
+  {
+   "layer": 19,
+   "index": 756
+  },
+  {
+   "layer": 20,
+   "index": 148
+  },
+  {
+   "layer": 20,
+   "index": 1273
+  },
+  {
+   "layer": 20,
+   "index": 1909
+  },
+  {
+   "layer": 21,
+   "index": 692
+  },
+  {
+   "layer": 21,
+   "index": 776
+  },
+  {
+   "layer": 21,
+   "index": 1513
+  },
+  {
+   "layer": 22,
+   "index": 449
+  },
+  {
+   "layer": 22,
+   "index": 1521
+  },
+  {
+   "layer": 23,
+   "index": 2989
+  },
+  {
+   "layer": 24,
+   "index": 2571
+  },
+  {
+   "layer": 24,
+   "index": 2639
+  },
+  {
+   "layer": 25,
+   "index": 1758
+  },
+  {
+   "layer": 26,
+   "index": 1787
+  },
+  {
+   "layer": 27,
+   "index": 1895
+  }
+ ]
+}
